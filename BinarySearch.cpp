@@ -14,7 +14,7 @@ void arrSort(int a[], int size)//3 -> 3 2 1
         }//end of j 
     }//end of for of i
 } // end of sort
-
+    
 void display(int a[],int size){
     cout<<"The array is : \n";
     for(int i=0;i<size;i++){
